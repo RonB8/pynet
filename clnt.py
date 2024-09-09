@@ -1,5 +1,8 @@
 import socket
 
+print("Ahalan")
+exit(0)
+
 soc = socket.socket()
 
 host = '127.0.0.1'
